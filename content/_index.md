@@ -7,4 +7,12 @@ Hola ✌️  soy el explorer **Rov** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas para la semana 1 (OnBoarding) son:
+-
+-Estudiar, comprender y aplicar las lineas de comando.
+
+-Estudiar y aplicar Git & GitHub.
+
+-Estudiar y dominar mi editor de texto (VSCode). 
+
 🚀
