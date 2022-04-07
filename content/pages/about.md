@@ -5,17 +5,23 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Hola, aquí vas a leer un poco sobre mi, me llamo Roberto Rivera  🤩
 
-Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+-Tengo 33 años, soy orgullosamente mexicano.
+
+-Vivo en CDMX (Col. del valle)
+
+-Soy arquitecto y una persona sumamente curiosa por la tecnología.
+
+-No me considero una persona de lectura, pero si un deborador de cursos y constante aprendizaje.
+
+-Soy felizmente papá de Zoé tiene 9 años y dos CanHijos, se llaman Whiskey y Moet.
+
+-Me gustan los documentales, peliculas basadas en la vida real, Dc, Marvel y el cine de animación.
+
+-Videojuegos favoritos Assassing creed, call of duty, far cry, fortnite. (Xbox y Nintendo switch).
+
+
 
